@@ -26,8 +26,10 @@ The project demonstrates **data analysis, SQL querying, and Python visualization
 ---
 
 ## 🧠 Insights
-- **Overall churn rate:** ~20%  
-- **France** had the highest churn among all geographies  
+- **Overall churn rate:** 20.4%  
+- **Germany** had the highest churn among all geographies  
+- **Female** churn rate 25.1%
+- **Male** churn rate 16.5%
 - **Older customers** with **higher balances** and **low tenure** were more likely to churn  
 - **Active members** and **credit card holders** showed significantly **lower churn rates**  
 - **Churned customers** tend to have slightly **lower credit scores**
